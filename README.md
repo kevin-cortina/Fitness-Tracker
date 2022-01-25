@@ -5,8 +5,8 @@
   ## Description
   This is a developed back end for an online retail store to help them use the latest technology. We use MySql to keep the information. 
   
-  ## Video Link
-
+  ## Deployed Application
+  https://frozen-eyrie-51094.herokuapp.com/
 
   ## Screenshot of application
    ![Screenshot1](./assets/pictures/screenshot1.png)
