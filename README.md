@@ -3,7 +3,7 @@
   # Fitness Tracker
   
   ## Description
-  This is a developed back end for an online retail store to help them use the latest technology. We use MySql to keep the information. 
+  This application helps individuals track their total measurements in working out. It gives them the ability to see the total amount of weight and total time working out. This application's back end runs through MongoDB atlas. 
   
   ## Deployed Application
   https://frozen-eyrie-51094.herokuapp.com/
@@ -24,8 +24,10 @@
   - [Questions](#questions)
  
   ## Installation
-    `Npm i` to install node_modules. 
-    `Npm start` to run applicaation
+  Make sure if running locally to have MongoDb running. Then proceed:
+    `Npm i`  to install node_modules. 
+    `Npm start`  to run applicaation
+  You should be able to test this application after npm start.
   
   ## Contributing
   Feel free to add or change any code.
@@ -36,7 +38,7 @@
   
 
   ## Features
-  MongoDB
+  MongoDB, MongoDBAtlas, Heroku
   
   ## Tests
   N/A
